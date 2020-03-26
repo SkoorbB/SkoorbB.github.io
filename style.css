@@ -161,7 +161,9 @@ footer {
 
 @media screen and (max-width: 1060px) {
 	#contact {
-		
+		display: flex;
+		align-items: center;
+		margin: 10px 10px 0px;
 	}
 }
 
